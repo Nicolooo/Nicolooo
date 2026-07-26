@@ -20,6 +20,6 @@
 🤔 If want to collaborate, you can reach out to me.
 
 📫 How to reach me:
-* :envelope: Email me at nicolosirbiladze@gmail.com / nicolo.wtf
+* :envelope: Email me at nicolosirbiladze@gmail.com / nikusha.wtf
 
 :earth_asia: Go through my [portfolio](https://nikusha.wtf) to know more about me.
