@@ -2,8 +2,6 @@
 
 :office: I’m currently working on projects!
 
-[![NIcolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolooo&show_icons=true&layout=compact&theme=dark)](https://github.com/Nicolooo)
-
 
 💬 You can ask me about:
   * JavaScript
@@ -24,4 +22,4 @@
 📫 How to reach me:
 * :envelope: Email me at nicolosirbiladze@gmail.com / nicolo.wtf
 
-:earth_asia: Go through my [portfolio](https://nicolo.wtf) to know more about me.
+:earth_asia: Go through my [portfolio](https://nikusha.wtf) to know more about me.
